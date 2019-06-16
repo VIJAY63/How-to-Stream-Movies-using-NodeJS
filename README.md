@@ -38,7 +38,7 @@ Once you deploy the server on Heroku, you will see the video player in the middl
 
 If you enjoyed this project, please consider giving it a 🌟. And check out my [GitHub account](https://github.com/Vijay63), where you'll find additional resources you might find useful or interesting.
 
-THANKS [GitHub account](https://github.com/davidgatti) 
+THANKS [David☺️](https://github.com/davidgatti) 
 
 
 
